@@ -25,6 +25,8 @@ My name is Damian Naglak. I am currently studying Computer Science and learning 
 #### Currently learning :
   <div>
     <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-black?=white&style=flat"/>
+    <img alt="Gradle" src="https://img.shields.io/badge/Gradle-black?=white&style=flat"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-bluek?=white&style=flat"/>
   </div>
   <hr/>
   
@@ -33,7 +35,7 @@ My name is Damian Naglak. I am currently studying Computer Science and learning 
 <strong>MealooApp</strong> - Web REST application that allows user to create own food diaries and generate them automatically using generator.
 
 <div>
-<a href="https://github.com/naslakboss/MealooApp">Repo</a> | <a href="https://mealoodietapp.herokuapp.com/client/74/current">Demo</a>
+<a href="https://github.com/naslakboss/MealooApp">Repo</a> | <a href="https://mealoodietapp.herokuapp.com/swagger-ui.html#/">Demo</a>
 </div><br/>
 
 <strong>PodlasieTrain</strong> -  Web REST Application which main function is to find the shortest path between two localizations
