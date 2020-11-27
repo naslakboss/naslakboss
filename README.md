@@ -31,6 +31,15 @@ My name is Damian Naglak. I am currently studying Computer Science and learning 
   <hr/>
   
 #### Completed Projects:
+<strong>TrainingCenter</strong> - A web application that allows to create a personal training diary, containing a list of muscles and a list of exercises, along with the possibility of creating training plans and adding records.<br>
+Project in the development phase, created by a group of 8 people, with the support of an experienced developer.
+I am the initiator and originator of the application, group creator and also a person actively developing the project code.
+
+<div>
+<a href="https://github.com/CodeEnthusiasts/TrainingCenter">Repo</a> | <a href="https://trainingcenterapp.herokuapp.com/swagger-ui.html#/">Demo</a>
+</div><br/>
+  
+#### Completed Projects:
 
 <strong>MealooApp</strong> - Web REST application that allows user to create own food diaries and generate them automatically using generator.
 
