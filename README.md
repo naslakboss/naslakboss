@@ -30,7 +30,7 @@ My name is Damian Naglak. I am currently studying Computer Science and learning 
   </div>
   <hr/>
   
-#### Completed Projects:
+#### Current Projects:
 <strong>TrainingCenter</strong> - A web application that allows to create a personal training diary, containing a list of muscles and a list of exercises, along with the possibility of creating training plans and adding records.<br>
 Project in the development phase, created by a group of 8 people, with the support of an experienced developer.
 I am the initiator and originator of the application, group creator and also a person actively developing the project code.
