@@ -1,5 +1,5 @@
 Hello!
---
+
 
 #### Tech stack:
 * JavaScript
@@ -14,6 +14,7 @@ Hello!
 
   
 #### Projects:
+
 <strong>TrainingCenter</strong> - A web application that allows to create a personal training diary, containing a list of muscles and a list of exercises, along with the possibility of creating training plans and adding records.<br>
 Project in the development phase, created by a group of 8 people, with the support of an experienced developer.
 I am the initiator and originator of the application, group creator and also a person actively developing the project code.
@@ -28,7 +29,7 @@ I am the initiator and originator of the application, group creator and also a p
 <a href="https://github.com/naslakboss/MealooApp">Repo</a> | <a href="https://mealoodietapp.herokuapp.com/swagger-ui.html#/">Demo</a>
 </div><br/>
 
-<strong>PodlasieTrain</strong> -  Web REST Application which main function is to find the shortest path between two localizations
+<strong>TrainRailways</strong> -  Web REST Application which main function is to find the shortest path between two localizations
 
 <div>
 <a href="https://github.com/naslakboss/podlasietrain">Repo</a> 
@@ -47,17 +48,3 @@ I am the initiator and originator of the application, group creator and also a p
  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<!--
-**naslakboss/naslakboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
