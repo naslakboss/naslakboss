@@ -1,36 +1,19 @@
 Hello!
 --
-My name is Damian Naglak. I am currently studying Computer Science and learning backend technologies by myself.
 
-#### Tech stack
-<div>
-    <img alt="JAVA" src="https://img.shields.io/badge/Java 11-orange?logo=java&logoColor=white&style=flat"/>
-    <img alt="SPRING" src="https://img.shields.io/badge/Spring-white?logo=spring&style=flat"/>
-    <img alt="POSTGRESQL" src="https://img.shields.io/badge/-PostgresSQL-blue?logo=postgresql&style=flat"/>
-</div>
-</br>
-<div>
-    <img alt="MOCKITO2" src="https://img.shields.io/badge/-Mockito%202-white"/>
-    <img alt="JUNIT5" src="https://img.shields.io/badge/-Junit5-brightgreen"/>
-    <img alt="HIBERNATE" src="https://img.shields.io/badge/-Hibernate-lightgrey"/> 
-</div>
-</br>
-<div>
-    <img alt="Git" src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=flat"/>
-    <img alt="INTELIJ" src="https://img.shields.io/badge/-IntellIJ-lightgrey"/>
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white&style=flat"/>
-</div>
-<hr/>
+#### Tech stack:
+* JavaScript
+* GoLang
+* AWS
+* Terraform
+* Java
 
-#### Currently learning :
-  <div>
-    <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-black?=white&style=flat"/>
-    <img alt="Gradle" src="https://img.shields.io/badge/Gradle-black?=white&style=flat"/>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-bluek?=white&style=flat"/>
-  </div>
-  <hr/>
+
+### Currently learning:
+* Machine learning
+
   
-#### Current Projects:
+#### Projects:
 <strong>TrainingCenter</strong> - A web application that allows to create a personal training diary, containing a list of muscles and a list of exercises, along with the possibility of creating training plans and adding records.<br>
 Project in the development phase, created by a group of 8 people, with the support of an experienced developer.
 I am the initiator and originator of the application, group creator and also a person actively developing the project code.
@@ -38,8 +21,6 @@ I am the initiator and originator of the application, group creator and also a p
 <div>
 <a href="https://github.com/CodeEnthusiasts/TrainingCenter">Repo</a> | <a href="https://trainingcenterapp.herokuapp.com/swagger-ui.html#/">Demo</a>
 </div><br/>
-  
-#### Completed Projects:
 
 <strong>MealooApp</strong> - Web REST application that allows user to create own food diaries and generate them automatically using generator.
 
@@ -59,7 +40,7 @@ I am the initiator and originator of the application, group creator and also a p
 <a href="https://github.com/naslakboss/BudgetAnalyzer">Repo</a> 
 </div><br/>
 
-#### Find me on :
+#### Find me on:
 <div>
 <a href="mailto:damiannaglak1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/damian-naglak-3413391b1/">
