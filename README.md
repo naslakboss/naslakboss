@@ -10,7 +10,7 @@ Hello!
 
 
 ### Currently learning:
-* Machine learning
+* AWS, Iaac
 
   
 #### Projects:
