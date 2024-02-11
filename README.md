@@ -1,6 +1,6 @@
 ## Hello, I'm Damian Naglak! ##
 
-**Full Stack Software Engineer** with over 5 years of experience in Web Applications, Big Data systems, and mobile development. 
+**Full Stack Software Engineer** with 5 years of experience in Web Applications, Big Data systems, and mobile development. 
 
 ### Technologies:
 - **Languages**: JavaScript, TypeScript, Python, GoLang, Java
@@ -21,5 +21,5 @@
 - **Aspirer**: An AI-mentor mobile app, from ideation to a built web-based prototype and mobile app integration with OpenAI’s LLMs (team of six).
 - **TrainingCenter**: A web app for personalized workouts, leading a team of eight in its development.
 
-### Find me on:
+
 - 📧 damiannaglak1@gmail.com
