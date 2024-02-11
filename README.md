@@ -22,6 +22,4 @@
 - **TrainingCenter**: A web app for personalized workouts, leading a team of eight in its development.
 
 ### Find me on:
-- [LinkedIn](https://linkedin.com/in/damian-naglak)
-- [GitHub](https://github.com/naslakboss)
 - 📧 damiannaglak1@gmail.com
