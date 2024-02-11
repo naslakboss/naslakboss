@@ -18,8 +18,7 @@
 
 
 ### Personal Projects:
-- **Aspirer**: An AI-mentor mobile app, from ideation to a built web-based prototype and mobile app integration with OpenAI’s LLMs (team of six).
-- **TrainingCenter**: A web app for personalized workouts, leading a team of eight in its development.
-
+- **Aspirer**: An AI-mentor mobile app, from ideation to a built web-based prototype and mobile app integration with OpenAI’s LLMs (team of six). [View Repo](https://github.com/AndrzejN1/Aspirer)
+- **TrainingCenter**: A web app for personalized workouts, leading a team of eight in its development. [View Repo](https://github.com/CodeEnthusiasts/TrainingCenter)
 
 - 📧 damiannaglak1@gmail.com
