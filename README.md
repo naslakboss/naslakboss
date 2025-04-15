@@ -1,6 +1,7 @@
 ## Hello, I'm Damian Naglak! ##
 
-**Full Stack Software Engineer** with 5 years of experience in Web Applications, Big Data systems, and mobile development. 
+**Tech Manager & Full Stack Software Engineer** with 5+ years of experience in Web Applications, Big Data systems, and Mobile development. Passionate about scalable systems, product development, and leading technical teams.
+ 
 
 ### Technologies:
 - **Languages**: JavaScript, TypeScript, Python, GoLang, Java
